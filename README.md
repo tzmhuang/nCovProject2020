@@ -33,7 +33,7 @@
 
 ## Todo
 
-* Preliminary research and feasibility studies (here)
-* Data gathering and cleaning
+* Preliminary research and feasibility studies (done)
+* Data gathering and cleaning (here)
 * Model development and evaluation
 * Extend and evaluate model using other disease

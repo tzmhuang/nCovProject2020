@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+/Readings
+
+# Data
+*.json
+
+# Selenium
+webdriver/
